@@ -1,0 +1,1 @@
+NextPass v4: 111.zip original business layout restored. Inquiry form moved to bottom. News arrows simplified. To enable maps, enter both verified addresses in script.js officeAddresses. Company data, news and member login URL remain placeholders. Form is demo only.
